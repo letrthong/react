@@ -1,0 +1,5 @@
+https://www.w3schools.com/REACT/DEFAULT.ASPhttps://www.w3schools.com/REACT/DEFAULT.ASP
+
+npx create-react-app my-react-app 
+cd my-react-app 
+npm start 
